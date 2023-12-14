@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConvertTacho.Form1.resources
+obj\Debug\ConvertTacho.Properties.Resources.resources
+obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+bin\Debug\ConvertTacho.exe
+bin\Debug\ConvertTacho.pdb
+obj\Debug\ConvertTacho.exe
+obj\Debug\ConvertTacho.pdb
+bin\Release\ConvertTacho.exe.config
+obj\Release\ConvertTacho.exe
+obj\Release\ConvertTacho.pdb

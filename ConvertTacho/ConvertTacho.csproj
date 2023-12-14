@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4024AC03-0731-4DB3-8591-442EC0A3AA46}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WinTacho</RootNamespace>
+    <AssemblyName>WinTacho.NetS_V5.4</AssemblyName>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>jieIco.Ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BSE.Windows.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=x86">
+      <HintPath>bin\x86\Release\BSE.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="hwinformchart35, Version=3.5.0.0, Culture=neutral, PublicKeyToken=0c528f916542c039, processorArchitecture=MSIL" />
+    <Reference Include="ListViewEx, Version=1.0.3682.37300, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Release\ListViewEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PrintableListView, Version=1.0.2074.27648, Culture=neutral" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.5.19490, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComportForm.Designer.cs">
+      <DependentUpon>ComportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBForm.Designer.cs">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EY_ChatChild.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarTotal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCarTotal.Designer.cs">
+      <DependentUpon>FormCarTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDayInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDayInfo.designer.cs">
+      <DependentUpon>FormDayInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDayInfoCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDayInfoCal.Designer.cs">
+      <DependentUpon>FormDayInfoCal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaySearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaySearch.Designer.cs">
+      <DependentUpon>FormDaySearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoad.Designer.cs">
+      <DependentUpon>FormLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarDriveRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCarDriveRec.Designer.cs">
+      <DependentUpon>FormCarDriveRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCommunicationSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCommunicationSetting.Designer.cs">
+      <DependentUpon>FormCommunicationSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormData.Designer.cs">
+      <DependentUpon>FormData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataDetail.Designer.cs">
+      <DependentUpon>FormDataDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataSetting.Designer.cs">
+      <DependentUpon>FormDataSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDayDirveRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDayDirveRec.Designer.cs">
+      <DependentUpon>FormDayDirveRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDriverDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDriverDB.Designer.cs">
+      <DependentUpon>FormDriverDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInputDBCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInputDBCount.Designer.cs">
+      <DependentUpon>FormInputDBCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMdbList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMdbList.Designer.cs">
+      <DependentUpon>FormMdbList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMonthTacho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMonthTacho.Designer.cs">
+      <DependentUpon>FormMonthTacho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOpenCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOpenCalendar.Designer.cs">
+      <DependentUpon>FormOpenCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOpenMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOpenMonth.Designer.cs">
+      <DependentUpon>FormOpenMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPassword.Designer.cs">
+      <DependentUpon>FormPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTachoReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTachoReceive.Designer.cs">
+      <DependentUpon>FormTachoReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTachoReceive1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTachoReceive1.designer.cs">
+      <DependentUpon>FormTachoReceive1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTotalRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTotalRec.Designer.cs">
+      <DependentUpon>FormTotalRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iniClass.cs" />
+    <Compile Include="Installer1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer1.Designer.cs">
+      <DependentUpon>Installer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaswordChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaswordChangeForm.Designer.cs">
+      <DependentUpon>PaswordChangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DBForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarTotal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDayInfo.resx">
+      <DependentUpon>FormDayInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDayInfoCal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDayInfoCal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaySearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDaySearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarDriveRec.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCarDriveRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommunicationSetting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormCommunicationSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormData.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataDetail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDataDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataSetting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDataSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDayDirveRec.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDayDirveRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDriverDB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormDriverDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInputDBCount.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormInputDBCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMdbList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMdbList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMonthTacho.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMonthTacho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOpenCalendar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormOpenCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOpenMonth.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormOpenMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPassword.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTachoReceive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormTachoReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTachoReceive1.resx">
+      <DependentUpon>FormTachoReceive1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTotalRec.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormTotalRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaswordChangeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PaswordChangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DlgForm.resx">
+      <DependentUpon>DlgForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="FormInfo.resx">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGraph.resx">
+      <DependentUpon>FormGraph.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarDB.resx">
+      <DependentUpon>FormCarDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="SalesInfoForm.resx">
+      <DependentUpon>SalesInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleTimerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ScheduleTimerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserTimeForm.resx">
+      <DependentUpon>UserTimeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="DlgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DlgForm.Designer.cs">
+      <DependentUpon>DlgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfo.Designer.cs">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGraph.Designer.cs">
+      <DependentUpon>FormGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCarDB.Designer.cs">
+      <DependentUpon>FormCarDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesInfoForm.Designer.cs">
+      <DependentUpon>SalesInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduledTimer.cs" />
+    <Compile Include="ScheduleTimerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleTimerForm.Designer.cs">
+      <DependentUpon>ScheduleTimerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sound.cs" />
+    <Compile Include="UserTimeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserTimeForm.designer.cs">
+      <DependentUpon>UserTimeForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="jieIco.Ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

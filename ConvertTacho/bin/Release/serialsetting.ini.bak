@@ -1,0 +1,20 @@
+﻿WinTacho Serial Setting
+
+SP = COM1
+BS = 38400
+DB = 8
+PA = 없음
+SB = 1
+FC = 없음
+h1 = 18
+m1 = 10
+s1 = 0
+h2 = 18
+m2 = 11
+s2 = 0
+0
+1
+2
+3
+PS = 0
+classic-pro_Use = 0

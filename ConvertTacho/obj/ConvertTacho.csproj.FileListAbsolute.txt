@@ -1,0 +1,922 @@
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ResolveAssemblyReference.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form1.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.exe
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.pdb
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form2.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.xml
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\es\ZedGraph.resources.dll
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form3.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form4.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.DlgForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.MapForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.DataForm.resources
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Report1.rdlc
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.cache
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.compiled
+F:\JIE_work\운행기록계\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe.config
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe.config
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.exe
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ResolveAssemblyReference.cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Report1.rdlc
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Form1.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.DlgForm.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\RdlCompile.compiled
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.exe
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\ConvertTacho.pdb
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.dll
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\ZedGraph.xml
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Debug\es\ZedGraph.resources.dll
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.pdb
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormData.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormInfo.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormGraph.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormCarDriveRec.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormOpenCalendar.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormDayDirveRec.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormOpenMonth.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormTachoReceive.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormCommunicationSetting.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe.config
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.exe
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.pdb
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.pdb
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.dll
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.xml
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Report1.rdlc
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Properties.Resources.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.cache
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.compiled
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormDataDetail.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormDataSetting.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormDriverDB.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormInputDBCount.resources
+F:\JIE_work\윈타코 관련\ConvertTacho\ConvertTacho\obj\Debug\ConvertTacho.FormCarDB.resources
+F:\인수인계\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\ConvertTacho.exe.config
+F:\인수인계\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.exe
+F:\인수인계\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\ConvertTacho.FormNetwork.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\WinTacho.Net_V1.61.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\WinTacho.Net_V1.61.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\bin\Release\WinTacho.Net_V1.61.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\WinTacho.Net_V1.61.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\KTK_WORK\WinTacho .Net\ConvertTacho\ConvertTacho\obj\Release\WinTacho.Net_V1.61.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormChart.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0722)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormReport.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormReport.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0725)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormReport.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\BSE.Windows.Forms.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\ListViewEx.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0727)\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho .NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Users\jie\Desktop\WinTacho_.NetV2.0(0813)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0813) (2)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.00.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\ZedGraph.xml
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\bin\Release\es\ZedGraph.resources.dll
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho_.NetV2.0(0730)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.0\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormNetwork.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\Documents and Settings\Apocalypse\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.pdb
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormNetwork.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Users\jie\Desktop\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.Net_V2.1.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormNetwork.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.NetV2.1(A)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\office.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\office.xml
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMdbList.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.UserTimeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarTotal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMonthTacho.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.4.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.4.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.4.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.4.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.4.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLogin.resources
+C:\Documents and Settings\Administrator\바탕 화면\KTK_WORK\WinTacho.Net(S)140419\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.4.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\KTK_WORK\WinTacho.Net(S)140419\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.4.exe
+C:\Documents and Settings\Administrator\바탕 화면\KTK_WORK\WinTacho.Net(S)140419\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.4.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.xml
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarTotal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLogin.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMdbList.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMonthTacho.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.UserTimeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe.config
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.exe
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.pdb
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.crpHeris.rpt
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.CrystalReport1.rpt
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report1.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report2.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Report3.rdlc
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.DBForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.Form1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCarTotal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayInfoCal.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.FormDaySearch.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormLoad.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCarDriveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCommunicationSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormData.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDataDetail.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDataSetting.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDayDirveRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormDriverDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormInputDBCount.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormLogin.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormMdbList.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormMonthTacho.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormOpenCalendar.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormOpenMonth.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormPassword.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormTachoReceive.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormTachoReceive1.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormTotalRec.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.PaswordChangeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\WinTacho.Properties.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.DlgForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormInfo.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormGraph.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.FormCarDB.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.ScheduleTimerForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.UserTimeForm.resources
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\ConvertTacho.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Administrator\바탕 화면\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Debug\RdlCompile.compiled
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe.config
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.exe
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.pdb
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.pdb
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarTotal.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLogin.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMdbList.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMonthTacho.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive1.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.UserTimeForm.resources
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.dll
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Vbe.Interop.dll
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.xml
+C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe.config
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.exe
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.pdb
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.pdb
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.dll
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Vbe.Interop.dll
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\office.xml
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarTotal.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLogin.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMdbList.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMonthTacho.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive1.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.UserTimeForm.resources
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+D:\KTK_Projects\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe.config
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.exe
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.NetS_V4.5.pdb
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.exe
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\WinTacho.NetS_V4.5.pdb
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\office.dll
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Vbe.Interop.dll
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\office.xml
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ResolveAssemblyReference.cache
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report1.rdlc
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report2.rdlc
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Report3.rdlc
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.DBForm.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.Form1.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarTotal.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfo.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayInfoCal.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.FormDaySearch.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLoad.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDriveRec.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCommunicationSetting.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormData.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataDetail.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDataSetting.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDayDirveRec.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormDriverDB.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInputDBCount.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormLogin.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMdbList.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormMonthTacho.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenCalendar.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormOpenMonth.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormPassword.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTachoReceive1.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormTotalRec.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.PaswordChangeForm.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\WinTacho.Properties.Resources.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.DlgForm.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormInfo.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormGraph.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.FormCarDB.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.ScheduleTimerForm.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.UserTimeForm.resources
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\ConvertTacho.csproj.GenerateResource.Cache
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.cache
+D:\KTK_Projects\WinTacho.Net(S)최종\WinTacho.Net\ConvertTacho\obj\Release\RdlCompile.compiled

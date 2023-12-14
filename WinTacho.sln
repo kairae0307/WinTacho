@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{424284E9-74E2-474B-AD9A-52305E449DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertTacho", "ConvertTacho\ConvertTacho.csproj", "{4024AC03-0731-4DB3-8591-442EC0A3AA46}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WinTachoSetup", "WinTachoSetup\WinTachoSetup.vdproj", "{13AC0AED-F4FC-44AE-86D2-E1F0AE54293A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Debug|x86.ActiveCfg = Debug|x86
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Debug|x86.Build.0 = Debug|x86
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Release|x86.ActiveCfg = Release|x86
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46}.Release|x86.Build.0 = Release|x86
+		{13AC0AED-F4FC-44AE-86D2-E1F0AE54293A}.Debug|Any CPU.ActiveCfg = Debug
+		{13AC0AED-F4FC-44AE-86D2-E1F0AE54293A}.Debug|x86.ActiveCfg = Debug
+		{13AC0AED-F4FC-44AE-86D2-E1F0AE54293A}.Release|Any CPU.ActiveCfg = Release
+		{13AC0AED-F4FC-44AE-86D2-E1F0AE54293A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4024AC03-0731-4DB3-8591-442EC0A3AA46} = {424284E9-74E2-474B-AD9A-52305E449DF6}
+	EndGlobalSection
+EndGlobal

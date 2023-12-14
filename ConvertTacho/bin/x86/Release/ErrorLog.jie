@@ -1,0 +1,472 @@
+ï»¿[2014-08-28 ì˜¤ì „ 9:20:46] ì¸ë±ìŠ¤ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤. ì¸ë±ìŠ¤ëŠ” ìŒìˆ˜ê°€ ì•„ë‹ˆì–´ì•¼ í•˜ë©° ì»¬ë ‰ì…˜ì˜ í¬ê¸°ë³´ë‹¤ ì‘ì•„ì•¼ í•©ë‹ˆë‹¤.
+ë§¤ê°œ ë³€ìˆ˜ ì´ë¦„: index
+[2014-08-28 ì˜¤ì „ 9:25:10] ì¸ë±ìŠ¤ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤. ì¸ë±ìŠ¤ëŠ” ìŒìˆ˜ê°€ ì•„ë‹ˆì–´ì•¼ í•˜ë©° ì»¬ë ‰ì…˜ì˜ í¬ê¸°ë³´ë‹¤ ì‘ì•„ì•¼ í•©ë‹ˆë‹¤.
+ë§¤ê°œ ë³€ìˆ˜ ì´ë¦„: index
+[2014-08-28 ¿ÀÀü 9:29:30] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+[2014-08-28 ¿ÀÀü 9:35:01] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+Asterisk
+[2014-08-28 ¿ÀÀü 9:36:09] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+Asterisk
+[2014-08-28 ¿ÀÀü 9:39:50]    À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   À§Ä¡: System.Collections.Generic.List`1.get_Item(Int32 index)
+   À§Ä¡: ConvertTacho.Form1.Tacho_Run(String str) ÆÄÀÏ C:\Documents and Settings\Administrator\¹ÙÅÁ È­¸é\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 6396
+2.[2014-10-10 ¿ÀÈÄ 3:06:48]    À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   À§Ä¡: System.Collections.Generic.List`1.get_Item(Int32 index)
+   À§Ä¡: ConvertTacho.FormTachoReceive.TransperAndSaveFile() ÆÄÀÏ C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\FormTachoReceive.cs:ÁÙ 1937
+
+11.[2014-12-05 ¿ÀÀü 11:21:49] rcvList[80] == 0x55 && rcvList[81] == 0x15 && rcvList[82] == 0xa5 :c:\TACHO2\\
+[2014-12-05 ¿ÀÀü 11:22:04]    À§Ä¡: ConvertTacho.Form1.Tacho_Run(String str) ÆÄÀÏ C:\Documents and Settings\Administrator\¹ÙÅÁ È­¸é\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7087
+11.[2014-12-05 ¿ÀÀü 11:34:45] rcvList[80] == 0x55 && rcvList[81] == 0x15 && rcvList[82] == 0xa5 :c:\TACHO2\\
+[2015-12-22 ¿ÀÈÄ 3:50:41]    À§Ä¡: System.Data.OleDb.OleDbConnection.CheckStateOpen(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnection(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnectionAndTransaction(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10751
+[2015-12-22 ¿ÀÈÄ 3:51:10]    À§Ä¡: System.Data.OleDb.OleDbConnection.CheckStateOpen(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnection(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnectionAndTransaction(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10751
+[2015-12-22 ¿ÀÈÄ 4:37:21]    À§Ä¡: System.Data.OleDb.OleDbConnection.CheckStateOpen(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnection(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnectionAndTransaction(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10751
+[2015-12-22 ¿ÀÈÄ 4:42:39]    À§Ä¡: System.Data.OleDb.OleDbConnection.CheckStateOpen(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnection(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ValidateConnectionAndTransaction(String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   À§Ä¡: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10751
+[2016-06-02 ¿ÀÈÄ 2:29:53]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7465
+[2016-06-10 ¿ÀÀü 9:49:48]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9636
+[2016-06-10 ¿ÀÀü 9:53:04]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9643
+[2016-07-14 ¿ÀÈÄ 5:45:52]    À§Ä¡: System.Windows.Forms.Control.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Form.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Control.get_Handle()
+   À§Ä¡: System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   À§Ä¡: System.Windows.Forms.Control.Show()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11016
+[2016-07-14 ¿ÀÈÄ 6:14:31]    À§Ä¡: System.Windows.Forms.Control.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Form.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Control.get_Handle()
+   À§Ä¡: System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   À§Ä¡: System.Windows.Forms.Control.Show()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11016
+[2016-07-15 ¿ÀÀü 9:18:50]    À§Ä¡: System.Windows.Forms.Control.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Form.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Control.get_Handle()
+   À§Ä¡: System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   À§Ä¡: System.Windows.Forms.Control.Show()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11016
+[2016-07-18 ¿ÀÀü 10:47:10]    À§Ä¡: System.Windows.Forms.Control.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Form.CreateHandle()
+   À§Ä¡: System.Windows.Forms.Control.get_Handle()
+   À§Ä¡: System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   À§Ä¡: System.Windows.Forms.Control.Show()
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11016
+[2016-09-09 ¿ÀÈÄ 12:21:55]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-09-09 ¿ÀÈÄ 12:21:56]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-09-09 ¿ÀÈÄ 12:21:57]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-09-09 ¿ÀÈÄ 12:23:04]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9648
+[2016-09-09 ¿ÀÈÄ 12:23:05]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-09-09 ¿ÀÈÄ 12:23:05]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9648
+[2016-09-09 ¿ÀÈÄ 12:23:06]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-09-09 ¿ÀÈÄ 12:23:06]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9648
+[2016-09-09 ¿ÀÈÄ 12:23:07]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1344
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7312
+[2016-10-05 ¿ÀÈÄ 2:23:00]    À§Ä¡: System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   À§Ä¡: System.Net.FtpWebRequest.RequestCallback(Object obj)
+   À§Ä¡: System.Net.CommandStream.InvokeRequestCallback(Object obj)
+   À§Ä¡: System.Net.CommandStream.Abort(Exception e)
+   À§Ä¡: System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   À§Ä¡: System.Net.FtpWebRequest.GetResponse()
+   À§Ä¡: ConvertTacho.Form1.ftp_filedown() ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 29611
+[2017-01-03 ¿ÀÈÄ 1:34:41]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10981
+[2017-01-03 ¿ÀÈÄ 1:39:10]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10981
+[2017-03-23 ¿ÀÈÄ 5:15:13]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1348
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7745
+[2017-05-16 ¿ÀÀü 11:48:36]    À§Ä¡: System.Net.FtpWebRequest.GetResponse()
+   À§Ä¡: ConvertTacho.Form1.ftp_filedown() ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 29692
+[2017-11-01 ¿ÀÈÄ 12:01:58]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 8233
+[2017-11-01 ¿ÀÈÄ 12:02:38]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 8233
+[2017-11-17 ¿ÀÀü 9:41:45]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10789
+[2017-11-17 ¿ÀÀü 9:41:45]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10789
+[2017-11-17 ¿ÀÈÄ 3:30:24]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9683
+[2017-11-17 ¿ÀÈÄ 3:30:33]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9683
+[2017-11-17 ¿ÀÈÄ 3:30:43]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9683
+[2017-11-17 ¿ÀÈÄ 3:32:17]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9693
+[2017-11-17 ¿ÀÈÄ 3:37:39]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 9683
+[2017-11-17 ¿ÀÈÄ 3:37:39]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1349
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7447
+[2017-11-17 ¿ÀÈÄ 3:38:49]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1349
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7465
+[2017-12-22 ¿ÀÀü 10:41:50]    À§Ä¡: System.Net.FtpWebRequest.GetResponse()
+   À§Ä¡: ConvertTacho.Form1.ftp_filedown() ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)ÃÖÁ¾\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 29698
+[2019-11-14 ¿ÀÈÄ 12:01:46]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10777
+[2019-11-14 ¿ÀÈÄ 12:12:05]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10777
+[2019-11-18 ¿ÀÈÄ 8:11:29]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11082
+[2019-11-19 ¿ÀÀü 9:57:55]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1361
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7730
+[2019-11-19 ¿ÀÀü 10:02:22]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1361
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7730
+[2019-11-19 ¿ÀÀü 10:02:56]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1361
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7730
+[2019-11-19 ¿ÀÀü 10:50:15]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1361
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7756
+[2019-11-19 ¿ÀÀü 11:06:57]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7782
+[2019-11-19 ¿ÀÀü 11:17:14]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7820
+[2019-11-19 ¿ÀÀü 11:21:05]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1361
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7821
+[2019-11-19 ¿ÀÀü 11:24:47]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7823
+[2019-11-19 ¿ÀÀü 11:33:52]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7823
+[2019-11-19 ¿ÀÀü 11:37:05]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7823
+[2019-11-19 ¿ÀÀü 11:37:14]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7823
+[2019-11-19 ¿ÀÀü 11:37:27]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7823
+[2019-11-19 ¿ÀÀü 11:57:10]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7841
+[2019-11-19 ¿ÀÀü 11:58:55]    À§Ä¡: ConvertTacho.Form1.BcdToDecimalByLsb(Byte[] arr, Int32 cnt) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 1351
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7841
+[2020-02-14 ¿ÀÀü 9:43:31]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 9:49:52]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 9:52:40]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 9:57:24]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:03:58]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:19:33]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:45:46]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:49:58]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:58:07]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-02-14 ¿ÀÀü 10:59:18]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 11258
+[2020-05-12 ¿ÀÈÄ 2:02:31]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.tmf_data(String str) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 10168
+[2020-07-03 ¿ÀÈÄ 2:37:54]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(Byte[] tmf_array) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36755
+[2020-07-03 ¿ÀÈÄ 2:38:43]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(Byte[] tmf_array) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36755
+[2020-07-03 ¿ÀÈÄ 3:53:24]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36036
+[2020-07-03 ¿ÀÈÄ 3:56:21]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36036
+[2020-07-03 ¿ÀÈÄ 3:57:11]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36036
+[2020-07-03 ¿ÀÈÄ 5:08:28]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36273
+[2020-07-03 ¿ÀÈÄ 5:09:09]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36273
+[2020-07-03 ¿ÀÈÄ 5:26:33]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:33]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:33]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:35]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:35]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:35]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:36]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:40]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:42]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:43]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:43]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:43]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:44]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:44]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:44]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:45]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:45]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:46]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:46]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:46]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36310
+[2020-07-03 ¿ÀÈÄ 5:26:47]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:47]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:47]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:48]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:48]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36310
+[2020-07-03 ¿ÀÈÄ 5:26:50]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:50]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:51]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:51]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:51]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:52]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:52]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:53]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:53]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:53]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:54]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:54]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:54]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:55]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:58]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:26:59]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:27:02]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:27:02]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34952
+[2020-07-03 ¿ÀÈÄ 5:27:39]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36375
+[2020-07-03 ¿ÀÈÄ 5:29:06]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:06]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:07]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:07]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:07]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:07]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:08]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:08]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:08]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:09]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:15]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:16]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:16]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:17]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:18]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:18]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:18]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:19]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:19]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:19]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:20]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:20]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:21]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:21]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:21]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:22]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36311
+[2020-07-03 ¿ÀÈÄ 5:29:22]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:22]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:23]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:23]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:24]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:24]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:24]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:25]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36311
+[2020-07-03 ¿ÀÈÄ 5:29:25]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:26]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:26]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34953
+[2020-07-03 ¿ÀÈÄ 5:29:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36376
+[2020-07-03 ¿ÀÈÄ 5:31:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:32:42]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:32]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:36]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:39]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:39]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:43]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:35:56]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36377
+[2020-07-03 ¿ÀÈÄ 5:45:17]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 5:47:16]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:01:29]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:03:26]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:04:27]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:04:52]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:05:24]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:07:16]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:07:55]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36385
+[2020-07-03 ¿ÀÈÄ 6:08:22]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:08:37]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:08:49]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:12:11]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:14:48]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:16:42]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36382
+[2020-07-03 ¿ÀÈÄ 6:20:42]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34954
+[2020-07-03 ¿ÀÈÄ 6:21:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 6:24:03]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 6:27:03]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:00:10]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:02:44]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:03:31]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:05:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:08:11]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:08:55]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:10:23]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36389
+[2020-07-03 ¿ÀÈÄ 7:13:57]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36319
+[2020-07-03 ¿ÀÈÄ 7:14:03]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36319
+[2020-07-03 ¿ÀÈÄ 7:15:34]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36319
+[2020-07-03 ¿ÀÈÄ 7:45:45]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36298
+[2020-07-03 ¿ÀÈÄ 7:49:01]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36298
+[2020-07-03 ¿ÀÈÄ 9:48:06]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36371
+[2020-07-03 ¿ÀÈÄ 9:50:39]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36371
+[2020-07-03 ¿ÀÈÄ 9:58:36]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36430
+[2020-07-03 ¿ÀÈÄ 10:01:28]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36430
+[2020-07-03 ¿ÀÈÄ 10:06:12]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:08:46]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:11:18]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:12:12]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:18:52]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:23:06]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:23:56]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36156
+[2020-07-03 ¿ÀÈÄ 10:42:19]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35949
+[2020-07-03 ¿ÀÈÄ 10:43:35]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35949
+[2020-07-03 ¿ÀÈÄ 10:53:08]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35309
+[2020-07-03 ¿ÀÈÄ 10:53:47]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35761
+[2020-07-03 ¿ÀÈÄ 10:55:53]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 10:57:18]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 11:08:33]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 11:13:10]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 11:13:37]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 11:13:37]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36366
+[2020-07-03 ¿ÀÈÄ 11:13:53]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34977
+[2020-07-03 ¿ÀÈÄ 11:13:55]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35761
+[2020-07-03 ¿ÀÈÄ 11:14:11]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35930
+[2020-07-03 ¿ÀÈÄ 11:15:00]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35930
+[2020-07-03 ¿ÀÈÄ 11:18:13]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35930
+[2020-07-03 ¿ÀÈÄ 11:18:38]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35930
+[2020-07-03 ¿ÀÈÄ 11:19:06]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35930
+[2020-07-03 ¿ÀÈÄ 11:19:41]    À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 34977
+[2020-07-04 ¿ÀÈÄ 1:15:20]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36387
+[2020-07-04 ¿ÀÈÄ 1:15:30]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36387
+[2020-07-04 ¿ÀÈÄ 1:15:37]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36387
+[2020-07-04 ¿ÀÈÄ 1:15:39]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36387
+[2020-07-04 ¿ÀÈÄ 3:25:58]    À§Ä¡: System.DateTime.TimeToTicks(Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36304
+[2020-07-04 ¿ÀÈÄ 4:17:13]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36208
+[2020-07-04 ¿ÀÈÄ 4:17:45]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36208
+[2020-07-04 ¿ÀÈÄ 4:18:37]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\KTK_Projects_2020\WinTacho.Net(S)_NewPro+Àü¿ë\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 36208
+[2020-07-05 ¿ÀÈÄ 8:38:24]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\WinTacho.Net(S)_NewPro+Àü¿ë (200704_1)\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35951
+[2020-07-05 ¿ÀÈÄ 8:39:34]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\WinTacho.Net(S)_NewPro+Àü¿ë (200704_1)\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35951
+[2020-07-05 ¿ÀÈÄ 8:50:18]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\WinTacho.Net(S)_NewPro+Àü¿ë (200704_1)\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35951
+[2020-07-05 ¿ÀÈÄ 8:54:48]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\WinTacho.Net(S)_NewPro+Àü¿ë (200704_1)\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35951
+[2020-07-05 ¿ÀÈÄ 8:55:50]    À§Ä¡: System.DateTime.DateToTicks(Int32 year, Int32 month, Int32 day)
+   À§Ä¡: System.DateTime..ctor(Int32 year, Int32 month, Int32 day, Int32 hour, Int32 minute, Int32 second)
+   À§Ä¡: ConvertTacho.Form1.TMF_Search_date(String str, Int64 position) ÆÄÀÏ D:\WinTacho.Net(S)_NewPro+Àü¿ë (200704_1)\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 35951

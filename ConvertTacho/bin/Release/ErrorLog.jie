@@ -1,0 +1,24 @@
+ï»¿[2014-08-28 ì˜¤ì „ 9:20:46] ì¸ë±ìŠ¤ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤. ì¸ë±ìŠ¤ëŠ” ìŒìˆ˜ê°€ ì•„ë‹ˆì–´ì•¼ í•˜ë©° ì»¬ë ‰ì…˜ì˜ í¬ê¸°ë³´ë‹¤ ì‘ì•„ì•¼ í•©ë‹ˆë‹¤.
+ë§¤ê°œ ë³€ìˆ˜ ì´ë¦„: index
+[2014-08-28 ì˜¤ì „ 9:25:10] ì¸ë±ìŠ¤ê°€ ë²”ìœ„ë¥¼ ë²—ì–´ë‚¬ìŠµë‹ˆë‹¤. ì¸ë±ìŠ¤ëŠ” ìŒìˆ˜ê°€ ì•„ë‹ˆì–´ì•¼ í•˜ë©° ì»¬ë ‰ì…˜ì˜ í¬ê¸°ë³´ë‹¤ ì‘ì•„ì•¼ í•©ë‹ˆë‹¤.
+ë§¤ê°œ ë³€ìˆ˜ ì´ë¦„: index
+[2014-08-28 ¿ÀÀü 9:29:30] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+[2014-08-28 ¿ÀÀü 9:35:01] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+Asterisk
+[2014-08-28 ¿ÀÀü 9:36:09] ÀÎµ¦½º°¡ ¹üÀ§¸¦ ¹ş¾î³µ½À´Ï´Ù. ÀÎµ¦½º´Â À½¼ö°¡ ¾Æ´Ï¾î¾ß ÇÏ¸ç ÄÃ·º¼ÇÀÇ Å©±âº¸´Ù ÀÛ¾Æ¾ß ÇÕ´Ï´Ù.
+¸Å°³ º¯¼ö ÀÌ¸§: index
+Asterisk
+[2014-08-28 ¿ÀÀü 9:39:50]    À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   À§Ä¡: System.Collections.Generic.List`1.get_Item(Int32 index)
+   À§Ä¡: ConvertTacho.Form1.Tacho_Run(String str) ÆÄÀÏ C:\Documents and Settings\Administrator\¹ÙÅÁ È­¸é\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 6396
+2.[2014-10-10 ¿ÀÈÄ 3:06:48]    À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   À§Ä¡: System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   À§Ä¡: System.Collections.Generic.List`1.get_Item(Int32 index)
+   À§Ä¡: ConvertTacho.FormTachoReceive.TransperAndSaveFile() ÆÄÀÏ C:\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\FormTachoReceive.cs:ÁÙ 1937
+
+11.[2014-12-05 ¿ÀÀü 11:21:49] rcvList[80] == 0x55 && rcvList[81] == 0x15 && rcvList[82] == 0xa5 :c:\TACHO2\\
+[2014-12-05 ¿ÀÀü 11:22:04]    À§Ä¡: ConvertTacho.Form1.Tacho_Run(String str) ÆÄÀÏ C:\Documents and Settings\Administrator\¹ÙÅÁ È­¸é\WinTacho.Net(S)4.3End\WinTacho.Net\ConvertTacho\Form1.cs:ÁÙ 7087
+11.[2014-12-05 ¿ÀÀü 11:34:45] rcvList[80] == 0x55 && rcvList[81] == 0x15 && rcvList[82] == 0xa5 :c:\TACHO2\\

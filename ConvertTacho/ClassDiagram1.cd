@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="굴림" Size="9" />
+  <Class Name="ConvertTacho.DlgForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DlgForm.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.Form1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>fzH2F/0RRmQ0CSYGsV+yzH9GCHaCI48QVu6NOI0iLBs=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormCarDriveRec" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormCarDriveRec.cs</FileName>
+      <HashCode>/xGBoSAIACEAALYQQSGSEAECQQAYIIZBGXBIiJBARDI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormCommunicationSetting" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormCommunicationSetting.cs</FileName>
+      <HashCode>AAgAAJCAACAAABAAEACIBEASEAEABEAIICAAAAEAUAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormData" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormData.cs</FileName>
+      <HashCode>mxtjGzBhgftm2vgh+2mZfmb+73W7Oarg1XuuQZtsSP0=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormDayDirveRec" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormDayDirveRec.cs</FileName>
+      <HashCode>/xEBIbAIACMEALYQQSGQMAECQUAsBIZJGUBICJBA7DM=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormGraph" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormGraph.cs</FileName>
+      <HashCode>AABABRABBbAJACBAAAqLIAADgAAABAACCGEEAATAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormInfo" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormInfo.cs</FileName>
+      <HashCode>igABGQBhgGAAAKAAQADBBEAGDOQ6AAsBAXC8BIAPBaA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormInformationCar" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormInformationCar.cs</FileName>
+      <HashCode>hAIIQAEAACAAAABAABmCAAACCggAAAQCAAIgAACIQgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormInformationDriver" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormInformationDriver.cs</FileName>
+      <HashCode>BAIAQEAEACAAAAKAgBCAAAACAAggAAACAAAABAAAQgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormOpenCalendar" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormOpenCalendar.cs</FileName>
+      <HashCode>ACAQAAABICAEAAAAAAGAJAACEAgAAACIACAAAQEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormOpenMonth" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormOpenMonth.cs</FileName>
+      <HashCode>AAAQQAAAACIAIBIAAQDABAACMAAgAAAIACAAAQFAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.FormTachoReceive" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormTachoReceive.cs</FileName>
+      <HashCode>MFAMsYAQhCQCAzQBQgqAkUDiL8mAABiBEf0OKYAAAkk=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.InformationDataSet" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAANADAAAQAAAAAgCQBgAAAAAAAEABFA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.InformationDataSet1" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJIBAAAQAAAAAgiQBgAAEAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.InformationDataSetTableAdapters.DriverInfoTableAdapter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAGAAEAAAAAMAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.InformationDataSet1TableAdapters.CarInfoTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAEAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConvertTacho.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAAAAAAABIAAAAAABBAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

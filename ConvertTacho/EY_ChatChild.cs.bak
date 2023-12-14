@@ -1,0 +1,208 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using System.IO;
+using System.Net;
+using System.Net.Sockets;
+using System.Threading;
+using System.Collections;
+
+
+namespace ConvertTacho
+{
+
+    class EY_ChatChild
+    {
+        private Socket ClientSocket = null;
+		
+        private string strClientID = null;
+        private string strReceiveMsg = "";
+		 private string strSendMsg = "";
+        private string strLog = "";
+		private string strErr = "";
+        private FormNetwork eyChatServer = null;
+        private byte[] buff = new byte[4096];
+		string saveFname="";   // *.TXT 파일의 파일명
+		string filesave = "Data 저장..";
+		string strCurTime="";
+		private int intSize = 0;
+
+		private byte[] byteReceiveMsg = new byte[1024];
+		private byte[] byteSendMsg = new byte[1024];
+	//	private bool bConnectServer = false;
+		
+	//	string dirName;
+	///	string saveFname2;	// Temporary TXT 파일명
+
+		public EY_ChatChild(Socket soc, string strID, FormNetwork eyServer)
+        {
+            ClientSocket = soc;
+            eyChatServer = eyServer;
+            strClientID = strID;
+            Receive();
+        }
+
+        private void Receive()
+        {
+            ClientSocket.BeginReceive(buff, 0, 4096, SocketFlags.None, new AsyncCallback(ReceiveCallBack), buff);
+        }
+
+
+        private void ReceiveCallBack(IAsyncResult ar)
+        {
+            try
+            {
+
+                byte[] Ibuff = (byte[])ar.AsyncState;
+                int recv = ClientSocket.EndReceive(ar);
+
+                if (recv == 0)
+                {                    
+                    Disconnet();
+                 //   return;
+					
+					strLog = string.Format("[{0}]번 클라이언트가 접속을 종료하였습니다.", strClientID);
+					eyChatServer.Add_Log(strLog);
+                }
+                else
+                {
+					
+                    strReceiveMsg = Encoding.Default.GetString(Ibuff, 0, recv);
+                    strLog = string.Format("Client : [{0}] {1}", strClientID, strReceiveMsg);
+                    eyChatServer.Add_Log(strLog);
+
+
+					if (buff[0] == 0x31)
+					{
+						strCurTime = string.Format("(Wifi){0:d2}월{1:d2}일{2:D2}시{3:D2}분{4:D2}초",DateTime.Now.Month,DateTime.Now.Day, DateTime.Now.Hour, DateTime.Now.Minute, DateTime.Now.Second);
+						saveFname=strCurTime;
+					
+						saveFname += ".txt";
+												
+						using (StreamWriter sw = new StreamWriter(saveFname, false, System.Text.Encoding.UTF8))												
+						{
+									
+							for (int i = 0; i < recv; i++ )
+							{
+							
+								
+								sw.Write(buff[i]);
+							
+							}
+							eyChatServer.Add_Log(filesave);
+							SendMassge();
+
+						}
+
+					/*	FileStream fs = new FileStream(saveFname, FileMode.CreateNew, FileAccess.Write);
+						using (BinaryWriter bw = new BinaryWriter(fs))
+						{
+							int[] testbuff = new int[4096];
+							
+							for (int i = 0; i < recv; i++)
+							{
+								testbuff[i] =buff[i];
+								bw.Write(testbuff[i]);
+
+							}
+							eyChatServer.Add_Log(filesave);
+							SendMassge();
+						}*/
+
+					}
+                    Receive();
+                }
+            }
+            catch (Exception e)
+            {
+				//eyChatServer.Add_Log(e.Message);
+				strLog = string.Format("[{0}]번 클라이언트가 접속을 종료하였습니다.", strClientID);
+				//MessageBox.Show(strLog);
+				eyChatServer.Add_Log(strLog);			
+				//Disconnet();
+            }
+        }
+		public void SendMassge()
+		{
+			  byte[] Sendbuff = new byte[4096];
+			  Sendbuff = buff;
+			  ClientSocket.BeginSend(Sendbuff, 0, byteSendMsg.Length, SocketFlags.None, new AsyncCallback(CallBack_SendMsg), ClientSocket);
+			//EY_ChatClient.BeginSend(byteSendMsg, 0, byteSendMsg.Length, SocketFlags.None, new AsyncCallback(CallBack_SendMsg), EY_ChatClient);
+		}
+
+
+		private void CallBack_SendMsg(IAsyncResult ar)
+		{
+
+			ClientSocket = (Socket)ar.AsyncState;
+			
+			try
+			{
+				intSize = ClientSocket.EndSend(ar);
+				if (intSize == 0)
+				{
+					Disconnet();
+				}
+				else
+				{
+				//	strSendMsg = Encoding.Default.GetString(byteSendMsg, 0, intSize);
+				//	ClientSocket.BeginReceive(byteReceiveMsg, 0, byteReceiveMsg.Length, SocketFlags.None, new AsyncCallback(ReceiveCallBack), byteReceiveMsg);
+				}
+			}
+			catch (Exception err)
+			{
+				strErr = string.Format("[SYSTEM] : {0}", err.Message);
+				eyChatServer.Add_Log(strErr);
+				Disconnet();
+			}
+		}
+
+			
+        public void ClientSend(string msg)
+        {
+            try
+            {
+                byte[] Ibuff = Encoding.Default.GetBytes(msg);
+                ClientSocket.BeginSend(Ibuff, 0, Ibuff.Length, SocketFlags.None, new AsyncCallback(SendCallBack), Ibuff);
+            }
+            catch
+            {
+                Disconnet();
+            }
+        }
+		
+
+        private void SendCallBack(IAsyncResult ar)
+        {
+            try
+            {
+                int send = ClientSocket.EndSend(ar);
+                if (send == 0)
+                {
+                    Disconnet();
+                }
+                else
+                {
+                    Receive();
+                }
+            }
+            catch
+            {
+                Disconnet();
+            }
+        }
+
+        private void Disconnet()
+        {
+            if (ClientSocket != null)
+            {
+                ClientSocket.Close();
+                ClientSocket = null;
+            }
+        }
+    }
+}
